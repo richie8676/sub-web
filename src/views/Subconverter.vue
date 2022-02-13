@@ -273,12 +273,12 @@ export default {
             ]
           },
           {
-            label: "customized",
+            label: "ACL4SSR",
             options: [
               {
-                label: "Maying",
+                label: "ACL4SSR_Online_Full_NoAuto",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
+                  "https://raw.githubusercontent.com/richie8676/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
                 label: "Ytoo",
